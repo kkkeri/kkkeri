@@ -2,11 +2,9 @@
 
 I'm a university student, and I started programming relatively recently.
 
-- 🌍 I'm based in NY
-
-<div align="center">
-  <img src="https://media.tenor.com/0QJgB5u9v5AAAAAC/opium-stalcraft.gif" width="300" alt="Funny GIF">
-</div>
+- 🌍 Russia, St. Petersburg
+- 🏊‍♂️ professional swimmer
+- 🏰 ITMO University
 
 # Skills 
 <p align="left">
